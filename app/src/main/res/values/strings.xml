@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="welcome">Welcome in application!</string>
+    <string name="text_from">FROM</string>
+    <string name="amount_text">Amount</string>
+    <string name="text_to">TO</string>
+    <string name="submit_button">Submit</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="buying_rate">Buying rate:</string>
+    <string name="selling_rate">Selling rate:</string>
+    <string name="switch_currencies">Switch currencies</string>
+    <string name="amount">Amount</string>
+</resources>
